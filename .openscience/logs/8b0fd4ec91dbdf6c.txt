@@ -1,9 +1,0 @@
-正文纯汉字: 5732 字（目标 5000–8000）
-尾部检查:
-endation, 2022.
-
-[50]Model Context Protocol. Authorization, specification 2025-11-25[EB/OL]. modelcontextprotocol.io, 2025.
-
-[51]马潇潇, 蒋诚智, 赵鑫, 等. 基于零信任理念的VPN访问控制技术[J]. 集成电路应用, 2022, 39(12): 114-115.
-
-

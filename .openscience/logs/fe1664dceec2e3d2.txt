@@ -1,1 +1,0 @@
-/home/yfish/trae/code/dataset/lfw/LFW - People (Face Recognition)_datasets/lfw_funneled/AJ_Cook -> 1 张

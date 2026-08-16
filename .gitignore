@@ -2,3 +2,5 @@
 *.swp
 *.swo
 *~
+.openscience/logs/
+.ipynb_checkpoints/
